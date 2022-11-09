@@ -31,7 +31,7 @@
 ### Part 4
 
 221109. ![img](/img/221109.jpg)
-        ![img](/img/221109_2)
+        ![img](/img/221109_2.jpg)
         어휘: **retiree** 퇴직자, 은퇴자  **auction off** ~을 경매로 처분하다  **journal** 일기(장)  **rescue** 구조
 
         **maroon** (섬 같은 곳에) 고립시키다  **inspire** 영감을 주다  **attic** 다락방
@@ -67,20 +67,21 @@
 
 
            해설: **Woodes Rogers에 대하여 지문의 내용과 일치하는 것을 묻는 문제이다.** 보기 (b)의 키워드인 stranded mariner(고립된 선원)와 관련된 marooned Scottish sailor(고립된 스코틀랜드 선원) 주변을 지문에서 살펴보면, Woodes Rogers가 고립된 스코틀랜드 선원을 구조한 것은 베스트 셀러 소설 ‘로빈슨 크루소’에 영감을 주었다고 언급되었다. 따라서 고립된 선원을 구조했다는 내용은 지문과 일치하므로 **(b) He saved a stranded mariner**가 정답이다.
-
+    
            (a) 지문에서 Woodes Rogers가 아닌 David Watkins가 그의 집 다락방에서 3백 년 된 일기를 발견했다고 했으므로 오답이다.
-
+    
            (c) 지문에서 Woodes Rogers가 고립된 스코틀랜드 선원을 구조한 것은 베스트 셀러 소설 ‘로빈슨 크루소’에 영감을 주었다고 했으므로, 그가 인기 있는 책을 집필했다는 것은 오답이다.
-
+    
            (d) 지문에서 David Watkins가 3백 년 된 일기장을 경매로 처분했다고는 했지만, Woodes Rogers가 경매에서 이겼다는 내용은 언급되지 않았으므로 오답이다.
 
 
            정답: (b)
 
-           
+
+​           
 
         2. What can be inferred from the news article?
-
+    
            (a) Reselling homes is no longer a good investment.
            (b) Most valuable art pieces are made by unknown artists.
            (c) Collecting art and literature is becoming more popular.
@@ -88,13 +89,13 @@
 
 
            해석: 신문 기사에서 추론할 수 있는 것은 무엇인가?
-
+    
            (a) 집을 다시 파는 것은 더 이상 좋은 투자가 아니다.
-
+    
            (b) 대부분 가치가ㅇ 큰 예술 작품은 알려지지 않은 예술가들에 의해 만들어진다.
-
+    
            (c) 예술 작품과 문학 작품을 수집하는 것은 더욱 인기가 많아지고 있다.
-
+    
            **(d) 예기치 않은 발견은 종종 매우 가치가 클 수 있다.**
 
 
@@ -103,4 +104,5 @@
 
            정답: (d)
 
-        
+
+​        
