@@ -5,7 +5,7 @@ A collection of concrete writeups of small things I learn daily while working
 and researching.
 
 
-_2 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -21,5 +21,7 @@ _2 TILs and counting..._
 ### [English](#English)
 - [2022.11.08 Daily Voca](English/2022.11.08.md)
 - [2022. 11. 09. Daily Voca](English/2022.11.09_daily_voca.md)
+- [매일 TEPS 풀기](English/매일 TEPS 풀기 해설.md)
+- [매일 TEPS 풀기](English/매일 TEPS 풀기.md)
 
 
