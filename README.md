@@ -5,13 +5,14 @@ A collection of concrete writeups of small things I learn daily while working
 and researching.
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
 - [2022.11.08 Daily Voca](English/2022.11.08.md) - Tue Nov 8 16:57:08 2022 +0900
+- [2022. 11. 09. Daily Voca](English/2022.11.09_daily_voca.md) - Wed Nov 9 16:22:38 2022 +0900
 
 ### Categories
 
@@ -19,5 +20,6 @@ _1 TILs and counting..._
 
 ### [English](#English)
 - [2022.11.08 Daily Voca](English/2022.11.08.md)
+- [2022. 11. 09. Daily Voca](English/2022.11.09_daily_voca.md)
 
 
