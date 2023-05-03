@@ -11,8 +11,8 @@ _4 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [2022.11.08 Daily Voca](English/2022.11.08.md) - Wed May 3 09:28:49 2023 +0900
-- [2022. 11. 09. Daily Voca](English/2022.11.09_daily_voca.md) - Wed May 3 09:28:49 2023 +0900
+- [2022.11.08 Daily Voca](English/2022.11.08.md) - Wed May 3 00:29:07 2023 +0000
+- [2022. 11. 09. Daily Voca](English/2022.11.09_daily_voca.md) - Wed May 3 00:29:07 2023 +0000
 
 ### Categories
 
