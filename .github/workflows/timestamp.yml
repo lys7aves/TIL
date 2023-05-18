@@ -16,7 +16,7 @@ jobs:
       - name: Generate Commit Timestamps
         run: |
           echo "# Commit Timestamps" > README.md
-          git log --format="- %ai %h %s" --name-only >> README.md
+          git log --format="- %ai %h %s\n" --name-only >> README.md
 
       - name: Commit and Push Changes
         run: |
